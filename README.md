@@ -19,12 +19,9 @@ $>npm install @sap/hana-client body-parser express formidable fs hbs http multer
 
 References:
 
-1. https://www.tutorialkart.com/nodejs/node-js-upload-file-to-server/#gsc.tab=0
+1. https://www.npmjs.com/package/@sap/hana-client
 
-2. https://www.bezkoder.com/node-js-upload-excel-file-database/
+2. https://www.geeksforgeeks.org/how-to-iterate-json-object-in-javascript/
 
-3. https://www.positronx.io/node-js-mysql-csv-file-upload-rest-api-tutorial/
+3. https://www.tutorialkart.com/nodejs/node-js-upload-file-to-server/#gsc.tab=0
 
-4. https://github.com/nodejs/node-v0.x-archive/issues/5287
-
-5. https://stackoverflow.com/questions/49651221/npm-enoent-no-such-file-or-directory-rename
